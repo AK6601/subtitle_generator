@@ -1,0 +1,7 @@
+faster-whisper
+# faster-whisper 1.2.1 passes an argument PyAV 16+ removed
+av<16
+ollama
+# GPU only: CUDA 12 runtime libraries for CTranslate2
+nvidia-cublas-cu12
+nvidia-cudnn-cu12==9.*
